@@ -5,7 +5,6 @@ import {
   CLEAR_ERROR,
   SET_FAVORITE,
   TOGGLE_LOADER,
-  SEARCH_POKEMON
 } from './types';
 
 export const setPokemons = (payload) => ({
